@@ -87,10 +87,6 @@ Copilot for Microsoft 365 is available as an add-on plan with one of the followi
 - Microsoft 365 E3
 - Office 365 E3  
 - Office 365 E5
-- Microsoft 365 A5 for faculty
-- Microsoft 365 A3 for faculty
-- Office 365 A5 for faculty
-- Office 365 A3 for faculty
 - Microsoft 365 Business Standard
 - Microsoft 365 Business Premium
 
